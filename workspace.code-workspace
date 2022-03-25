@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\beats"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
